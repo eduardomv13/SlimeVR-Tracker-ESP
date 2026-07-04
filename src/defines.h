@@ -64,8 +64,8 @@
 
 // --- OVERRIDES FOR DEFAULT PINS
 
-// #define PIN_IMU_SDA 21
-// #define PIN_IMU_SCL 22
+#define PIN_IMU_SDA 21
+#define PIN_IMU_SCL 22
 // #define PIN_IMU_INT 23
 // #define PIN_IMU_INT_2 13
 // #define PIN_BATTERY_LEVEL 17
@@ -74,5 +74,5 @@
 // #define BATTERY_SHIELD_RESISTANCE 0
 // #define BATTERY_SHIELD_R1 10
 // #define BATTERY_SHIELD_R2 40.2
-
+#define BOARD_HAS_MAGNETOMETER true
 // ------------------------------
