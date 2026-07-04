@@ -64,9 +64,9 @@
 
 // --- OVERRIDES FOR DEFAULT PINS
 
-// #define PIN_IMU_SDA 14
-// #define PIN_IMU_SCL 12
-// #define PIN_IMU_INT 16
+// #define PIN_IMU_SDA 21
+// #define PIN_IMU_SCL 22
+// #define PIN_IMU_INT 23
 // #define PIN_IMU_INT_2 13
 // #define PIN_BATTERY_LEVEL 17
 // #define LED_PIN 2
