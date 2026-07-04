@@ -26,7 +26,7 @@
 // ================================================
 
 // Set parameters of IMU and board used
-#ifndef IMU 
+#ifndef IMU
 #define IMU IMU_LSM6DSV
 #endif
 #ifndef SECOND_IMU
